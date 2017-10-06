@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'test-app',
+    modulePrefix: 'FortniteTools',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
@@ -45,7 +45,6 @@ module.exports = function(environment) {
   if (environment === 'production') {
     ENV.locationType = 'hash';
     ENV.rootURL = '/FortniteTools/';
-
   }
 
   return ENV;
