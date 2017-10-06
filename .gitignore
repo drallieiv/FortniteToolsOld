@@ -8,19 +8,6 @@
 /node_modules
 /bower_components
 
-# OS generated files #
-######################
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-Icon?
-.DS_Store
-.DS_Store?
-._*
-.Trashes
-$RECYCLE.BIN/
-
 # Versioning #
 #############
 *.orig
-
