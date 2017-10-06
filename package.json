@@ -1,9 +1,9 @@
 {
-  "name": "appname",
+  "name": "FortniteTools",
   "version": "0.0.0",
-  "description": "Small description for appname goes here",
+  "description": "Fortnite Tools project",
   "license": "MIT",
-  "author": "",
+  "author": "Drallieiv",
   "directories": {
     "doc": "doc",
     "test": "tests"
